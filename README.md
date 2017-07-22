@@ -3,8 +3,6 @@ A simple module for nodejs. It exports a function that can search a property in 
 
 ## Code Example
 
-Instantiate a TableExport object
-
 * require the module
 
         const searchInObject = require('<use the relative path for the index file>');
