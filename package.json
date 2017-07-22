@@ -1,0 +1,24 @@
+{
+  "name": "search-object-property",
+  "version": "1.0.0",
+  "description": "Search a property in an object. It can return custom values",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielFrag/search-object-property"
+  },
+  "keywords": [
+    "object",
+    "search",
+    "property"
+  ],
+  "author": "Daniel",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "chai":"^4.1.0"
+  }
+}
